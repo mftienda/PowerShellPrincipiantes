@@ -17,4 +17,4 @@ Aquí trataremos los siguientes apartados:
 ## Referencias
 [PowerShell Microsoft](https://docs.microsoft.com/es-es/powershell/scripting/powershell-scripting?view=powershell-5.1)
 ## Página Web
-[Iniciación a la PowerShell](https://mftienda.github.io/powershell)
+[Iniciación a la PowerShell](https://mftienda.github.io/PowerShellPrincipiantes)
