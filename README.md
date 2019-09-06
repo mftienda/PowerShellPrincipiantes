@@ -9,11 +9,6 @@ Aquí trataremos los siguientes apartados:
 5. Inciación a los scripts.
 6. Fundamentos de scripts-I
 7. Fundamentos de scripts-II
-## Pildoras
-1. PowerShell Core.
-2. Constructor de comandos.
-3. Exportar datos.
-4. Creación de usuarios masivos.
 ## Referencias
 [PowerShell Microsoft](https://docs.microsoft.com/es-es/powershell/scripting/powershell-scripting?view=powershell-5.1)
 ## Página Web
